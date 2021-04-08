@@ -21,3 +21,4 @@ class Container extends React.Component
         )
     }
 }
+export default Container;
