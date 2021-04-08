@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Board from '../board/Board'
 class Container extends React.Component
 {
     constructor(props){
